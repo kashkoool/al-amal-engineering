@@ -1,0 +1,210 @@
+{
+  "companyName": "AL-Amal Engineering",
+  "hero": {
+    "title": "Building Excellence in Syria",
+    "subtitle": "Specialized in aluminum, glass, and architectural solutions",
+    "cta": "Get in Touch"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "projects": "Projects",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "services": {
+    "title": "Our Services",
+    "glass": {
+      "title": "Glass Solutions",
+      "shortTitle": "Glass & Glazing Solutions",
+      "description": "Comprehensive glass solutions including high-performance curtain walls for modern buildings, frameless systems with spider fittings, tempered and laminated safety glass, decorative options (sandblasted, mirrored, ceramic-printed), and custom shower enclosures & glass partitions for residential and commercial spaces.",
+      "shortDescription": "Custom glass installations and curtain walls"
+    },
+    "aluminum": {
+      "title": "Aluminum Works",
+      "description": "Comprehensive aluminum solutions including thermal-break systems for windows & doors, weather-resistant skylights & canopies, ACP (Aluminum Composite Panels) cladding for building exteriors, and custom-tailored profiles for unique architectural requirements.",
+      "shortDescription": "Precision aluminum fabrication and installations"
+    },
+    "interior": {
+      "title": "Interior Solutions",
+      "description": "Custom interior designs and implementations including soundproof glass partitions for offices and hospitals, premium wardrobes & vanities with wood and lacquered glass finishes, and commercial-grade stainless steel kitchen/bathroom units for maximum hygiene and durability.",
+      "shortDescription": "Custom interior designs and implementations"
+    },
+    "metal": {
+      "title": "Metal & Iron Works",
+      "description": "Specializing in 316-grade stainless steel handrails for indoor/outdoor use, custom metal staircases and barriers for commercial/residential applications, and artistic cladding & decorative metalwork for stunning façades and structural elements."
+    },
+    "turnkey": {
+      "title": "Turnkey Construction",
+      "description": "Complete solutions including end-to-end building façades design and installation, luxury shopfronts with automatic sliding doors, and custom pergolas & outdoor structures featuring glass/metal shade solutions."
+    },
+    "specialty": {
+      "title": "Specialty Services",
+      "description": "Advanced solutions including safety-compliant fire-rated glass systems, precision CNC metal/glass cutting for complex designs, and nationwide on-site installation services."
+    },
+    "facades": {
+      "title": "Building Facades",
+      "description": "Modern architectural facades and cladding"
+    }
+  },
+  "projects": {
+    "title": "Our Projects",
+    "showMore": "Show More Projects",
+    "showLess": "Show Less Projects",
+    "planning": "Project planning",
+    "details": {
+      "client": "Client",
+      "contractor": "Contractor",
+      "scope": "Scope",
+      "value": "Value",
+      "duration": "Duration",
+      "items": {
+        "arabCenter": {
+          "title": "Arab Center",
+          "client": "Qatar University",
+          "contractor": "Compind Group",
+          "scope": "Glazed handrails (3,200 lm), wood louvers, shower glass (700 sets)",
+          "value": "4,500,000 QAR",
+          "duration": "170 days"
+        },
+        "mallOfQatar": {
+          "title": "Mall of Qatar",
+          "client": "Golden Bay Trading & Contracting",
+          "scope": "4,388 m² aluminum cladding (4mm ACP), galvanized steel tubes",
+          "value": "4,891,300 QAR",
+          "duration": "120 days"
+        },
+        "dukhanBank": {
+          "title": "Dukhan Bank HQ",
+          "client": "Golden Bay Trading & Contracting",
+          "scope": "Mirror glass (6mm) with stainless steel frames, elevator metalwork, shopfronts, toilet cubicles",
+          "value": "1,583,063 QAR",
+          "duration": "180 days"
+        },
+        "integratedFamilies": {
+          "title": "Integrated Families Housing",
+          "client": "UrbaCon Trading & Contracting",
+          "scope": "Phase 1: 10mm tempered glass systems, U-channel 316G mirror finish\nPhase 2: Mild steel handrails, MS tubes (100x50x2.0mm)",
+          "value": "Phase 1: 10,248,450 QAR\nPhase 2: 2,500,000 QAR",
+          "duration": "Phase 1: 210 days\nPhase 2: 100 days"
+        },
+        "meliaTower": {
+          "title": "Melia Tower",
+          "location": "Al Dafnah",
+          "client": "Harna",
+          "scope": "Spider glass façade, stainless steel accessories",
+          "value": "3,500,000 QAR (3,500 m²)",
+          "duration": "150 days"
+        },
+        "ahliBank": {
+          "title": "Ahli Bank",
+          "location": "Al Wakra",
+          "client": "Ahli Bank",
+          "scope": "Smart system (120mm double glass), aluminum cladding, stainless steel work",
+          "value": "1,700 m² exterior work",
+          "duration": "65 days"
+        },
+        "planetMedical": {
+          "title": "Planet Medical Center",
+          "location": "Al Waab",
+          "client": "Alasmakh",
+          "scope": "Aluminum cladding, curtain walls (150mm double glass), steel handrails",
+          "duration": "130 days"
+        },
+        "alNagmaa": {
+          "title": "Al Nagmaa Project",
+          "client": "Alasmakh",
+          "scope": "Curtain walls (150mm double glass), spider glass, stainless steel",
+          "duration": "50 days"
+        },
+        "behzadGroup": {
+          "title": "Behzad Group Building",
+          "location": "Bin Mahmoud",
+          "client": "Behzad Group",
+          "scope": "4mm cladding, curtain walls (150mm double glass), interior design",
+          "value": "1,000 m² façade",
+          "duration": "70 days"
+        },
+        "goldenSand": {
+          "title": "Golden Sand",
+          "location": "New Salata",
+          "scope": "4mm cladding, curtain walls (150mm double glass), glass partitions",
+          "value": "1,400 m² façade",
+          "duration": "120 days"
+        },
+        "alSmisma": {
+          "title": "Al-Smisma Village",
+          "scope": "Glass handrails, curtain walls (150mm double glass)",
+          "details": "100 Villas",
+          "value": "2,300 m²",
+          "duration": "160 days"
+        },
+        "apartmentComplex": {
+          "title": "Apartment Complex",
+          "scope": "Glass partitions, curtain walls (150mm double glass)",
+          "details": "150 Villas",
+          "value": "3,500 m²",
+          "duration": "190 days"
+        },
+        "millenniumMedical": {
+          "title": "Millennium Medical Center",
+          "location": "Al Hilal",
+          "client": "Al-Thani",
+          "scope": "Stainless steel elevation with backlighting, signage",
+          "value": "290 m² stainless steel",
+          "duration": "65 days"
+        },
+        "securityHouse": {
+          "title": "Security Guard House",
+          "scope": "Custom metal/glass structure"
+        },
+        "armitageHotel": {
+          "title": "Armitage Hotel",
+          "location": "Syria",
+          "scope": "Curtain walls (150mm double glass), glass partitions",
+          "value": "1,200 m² façade",
+          "duration": "90 days"
+        },
+        "additionalWorks": {
+          "title": "Additional Notable Works",
+          "scope": "Shades & Canopies: Polycarbonate/glass structures for villas/commercial buildings.\nKitchen/Bathroom Equipment: Stainless steel fabrication.\nWardrobes & Vanities: Custom wood/Corian finishes.\nToilet Cubicles: HPL/stainless steel partitions.",
+          "value": "Various Projects",
+          "duration": "Ongoing"
+        }
+      }
+    }
+  },
+  "about": {
+    "title": "About Al-Amal Engineering",
+    "subtitle": "Building Visions, Delivering Excellence",
+    "description": "Since 2014, Al-Amal Engineering (a subsidiary of Kashkool & Qanass Trading & Contracting) has been a pioneer in architectural innovation across Qatar, and we are now proud to extend our legacy to Syria. Rooted in the same commitment to quality and precision as our parent company, we specialize in:",
+    "specialties": {
+      "glass": "Custom Glass & Glazing Solutions: Curtain walls, tempered glass, and fire-rated installations.",
+      "aluminum": "Aluminum Fabrication: Windows, doors, cladding, and bespoke metalwork.",
+      "turnkey": "Turnkey Building Systems: From design to installation, delivering seamless architectural solutions."
+    },
+    "whyChooseUs": {
+      "title": "Why Choose Us?",
+      "expertise": "Proven Expertise: Over 30+ completed projects in Qatar, including iconic developments like Mall of Qatar and Dukhan Bank HQ.",
+      "capabilities": "End-to-End Capabilities: In-house 800m² workshop with advanced machinery and a 50+ skilled team of engineers and technicians.",
+      "standards": "Global Standards, Local Craftsmanship: Partnerships with industry leaders like Pilkington Glass (USA) and ALUCOBOND (Germany) ensure premium materials, tailored to Syria's unique architectural needs.",
+      "mission": "Mission-Driven: We merge innovation with cost-efficiency to rebuild Syria's infrastructure—safely, sustainably, and on time."
+    },
+    "tagline": "\"We Build—But in Our Ways\" — a promise of craftsmanship, trust, and relentless attention to detail.",
+    "downloadProfile": "Download Company Profile",
+    "showMore": "Show More",
+    "showLess": "Show Less"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "getInTouch": "Get in Touch",
+    "followInstagram": "Follow us on Instagram",
+    "chatWhatsApp": "Chat on WhatsApp"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "social": "Social",
+    "copyright": "All rights reserved"
+  }
+} 
