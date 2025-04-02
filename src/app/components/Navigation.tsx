@@ -27,7 +27,7 @@ export default function Navigation({ className = '' }: NavigationProps) {
         <Link href="/" className="logo">
           <div className="logo-container">
             <Image
-              src="/images/AL-Amal Engineering icon.png"
+              src="/images/al-amal-engineering-icon.png"
               alt="AL-Amal Engineering"
               width={50}
               height={50}
